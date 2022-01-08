@@ -298,8 +298,7 @@ h2{
   }
   
   .b {
-    padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
+    padding: 2.5rem;
   }
   
   .margin-bottom {
@@ -318,3 +317,9 @@ h2{
     list-style-type: circle;
     display: contents;
   }
+
+  .blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
