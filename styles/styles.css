@@ -1,0 +1,135 @@
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size:1em;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: rgb(74, 85, 104);
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    color: #111;
+  }
+  .justify-between {
+    justify-content: space-between;
+}
+.items-center {
+  align-items: center;
+}
+.flex {
+  display: flex;
+}
+div {
+  display: block;
+}
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.logo1 {
+  height: 2.5rem;
+}
+.cta {
+  font-size: 100%;
+}
+
+.headerList{
+  
+  font-weight: 500;
+  line-height: 1.25rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  align-items: center;
+  margin-left: 0.75rem;
+  margin-top: 0.5rem;
+  margin-bottom: 00.5rem;
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-duration: .15s;
+  font-size: .875rem;
+  display: inline-flex;
+}
+
+
+
+
+button {
+  margin: 0.75rem 0.1rem 0.25rem 0.0rem;
+  padding: 10px 10px;
+  color:white;
+  background-color: rgb(255, 136, 0);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3 ease 0s;
+}
+
+button:hover {
+  background-color: rgba(255,136,0,0.7);
+}
+
+
+
+.gradient{
+  width: 100%;
+  height: 580px;
+  background-size: cover;
+  color: white;
+  padding: 20px;
+}
+
+#anasayfa-foto1 {
+  background-image:
+  linear-gradient(to bottom, rgba(45, 116, 156, 0.5), rgba(117, 19, 93, 0.5)),
+  url('photos/clement-helardot-95YRwf6CNw8-unsplash.jpg');
+}
+
+h1{
+  font: ui-sans-serif;
+  letter-spacing: -.025em;
+  font-size: 3.75rem;
+  font-weight: 900;
+}
+
+h2{
+  letter-spacing: -.025em;
+  font-size: 2.25rem;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.resim-text{
+  font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+
+.block {
+  box-sizing: border-box;
+    border: 0 solid;
+  display: block;
+}
+
+
