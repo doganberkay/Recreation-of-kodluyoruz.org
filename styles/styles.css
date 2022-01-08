@@ -249,3 +249,20 @@ h2{
 .beyaz-border{
   border: 50px solid white;
 }
+.white-link {
+  color: white;
+}
+
+.white-link:hover {
+  color: orange;
+}
+
+.underline:hover {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.no-underline:hover {
+  text-decoration: none;
+}
+
