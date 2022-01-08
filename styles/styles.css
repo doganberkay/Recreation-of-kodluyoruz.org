@@ -17,7 +17,7 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    color: rgb(74, 85, 104);
+    color: #111;
   }
   
   /* Change the link color to #111 (black) on hover */
@@ -55,6 +55,11 @@ div {
   font-size: 100%;
 }
 
+#TR{
+  font-size: .875rem;
+  font-weight: 500;
+}
+
 .headerList{
   
   font-weight: 500;
@@ -72,12 +77,41 @@ div {
 }
 
 
+.navbarButton{
+    margin: 1rem 0.2rem 0.25rem 0.0rem;
+    padding: 10px 15px;
+    color:white;
+    background-color: rgb(255, 136, 0);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3 ease 0s;
+    font-weight: 500;
+    font-size: .875rem;
+}
+#anasayfaButton{
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  padding: 18px 40px;
+}
 
-
-button {
-  margin: 0.75rem 0.1rem 0.25rem 0.0rem;
-  padding: 10px 10px;
+.maviButton{
+  margin: 0.75rem 0.5rem 0.25rem 0.5rem;
+  padding: 10px 20px;
   color:white;
+  font-weight: 700;
+  background-color: rgb(255, 136, 0);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3 ease 0s;
+  background: linear-gradient(to right,rgba(45,156,219,.6),rgba(155,81,224,.6));
+}
+.turuncuButton{
+  margin: 0.75rem 0.1rem 0.25rem 0.1rem;
+  padding: 10px 20px;
+  color:white;
+  font-weight: 700;
   background-color: rgb(255, 136, 0);
   border: none;
   border-radius: 50px;
@@ -85,11 +119,9 @@ button {
   transition: all 0.3 ease 0s;
 }
 
-button:hover {
-  background-color: rgba(255,136,0,0.7);
+.turuncuButtonHover:hover{
+  background-color: rgb(252, 179, 96);
 }
-
-
 
 .gradient{
   width: 100%;
@@ -103,6 +135,14 @@ button:hover {
   background-image:
   linear-gradient(to bottom, rgba(45, 116, 156, 0.5), rgba(117, 19, 93, 0.5)),
   url('photos/clement-helardot-95YRwf6CNw8-unsplash.jpg');
+}
+
+#resimsizGradient{
+    background: linear-gradient(to right,rgba(45,156,219,.6),rgba(155,81,224,.6));
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    border: 0 solid;
 }
 
 h1{
@@ -120,6 +160,10 @@ h2{
   margin-bottom: 1.5rem;
 }
 
+.white-h2{
+  color:white;
+}
+
 .resim-text{
   font-size: 1.25rem;
     line-height: 1.75rem;
@@ -132,4 +176,16 @@ h2{
   display: block;
 }
 
+
+.kucukBaslik{
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.yazi{
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 100;
+}
 
