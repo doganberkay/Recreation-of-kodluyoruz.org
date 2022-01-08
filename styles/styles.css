@@ -1,6 +1,6 @@
 
 
-ul {
+.ulnavbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -8,20 +8,21 @@ ul {
     font-size:1em;
   }
   
-  li {
+  .linavbar {
     float: left;
   }
   
-  li a {
+.linavbar a {
     display: block;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    color: #111;
+    color: rgb(115,115,115);
+    transition: 0.25s;
   }
   
   /* Change the link color to #111 (black) on hover */
-  li a:hover {
+.linavbar a:hover {
     color: #111;
   }
   .justify-between {
