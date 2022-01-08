@@ -144,7 +144,12 @@ div {
 #hi-kod-foto1{
   background-image:
   linear-gradient(to bottom, rgba(45, 116, 156, 0.5), rgba(117, 19, 93, 0.5)),
-  url('photos/hi-kod-1.jpg');
+  url('photos/hi-kod-4.png');
+}
+
+#hi-kod-logo1{
+  border: 2px solid white;
+  border-radius: 8px 8px;
 }
 
 #resimsizGradient{
