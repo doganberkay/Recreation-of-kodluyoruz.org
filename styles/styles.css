@@ -209,7 +209,20 @@ h2{
 }
 
 
-
+.bolder-head{
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 1;
+  box-sizing: border-box;
+    border: 0 solid;
+}
+.bolder-text{
+  line-height: 1.5rem;
+  font-weight: 500;
+  font-size: 1.125rem;
+  margin-top: 0.5rem;
+  color: rgba(115,115,115);
+}
 
 #pd-1{
   padding-top: 1rem;
