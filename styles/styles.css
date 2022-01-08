@@ -137,6 +137,12 @@ div {
   url('photos/clement-helardot-95YRwf6CNw8-unsplash.jpg');
 }
 
+#hi-kod-foto1{
+  background-image:
+  linear-gradient(to bottom, rgba(45, 116, 156, 0.5), rgba(117, 19, 93, 0.5)),
+  url('photos/hi-kod-1.jpg');
+}
+
 #resimsizGradient{
     background: linear-gradient(to right,rgba(45,156,219,.6),rgba(155,81,224,.6));
     width: 100%;
