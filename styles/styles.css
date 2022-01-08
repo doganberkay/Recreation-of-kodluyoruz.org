@@ -144,6 +144,13 @@ div {
     box-sizing: border-box;
     border: 0 solid;
 }
+#griGradient{
+  background: rgb(245, 245, 245);
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  border: 0 solid;
+}
 
 h1{
   font: ui-sans-serif;
@@ -195,5 +202,9 @@ h2{
   border-radius: 0.25rem;
   margin-bottom: 2.5rem;
   display: block;
+}
+
+.logos{
+  width: 16rem;
 }
 
