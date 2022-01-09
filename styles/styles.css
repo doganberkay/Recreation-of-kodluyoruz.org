@@ -153,6 +153,24 @@ div {
   linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
   url('photos/for-company1.jpg');
 }
+#kodla-donus{
+  background-image:
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
+  url('photos/kodla-donus1.jpg');
+}
+
+#bootcamp-foto{
+  background-image:
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
+  url('photos/bootcamp1.jpg');
+}
+
+#community-foto{
+  background-image:
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
+  url('photos/community1.jpg');
+}
+
 
 #hi-kod-logo1{
   border: 2px solid white;
