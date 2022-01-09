@@ -182,6 +182,11 @@ div {
   linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
   url('photos/kodluyoruz-jr.jpg');
 }  
+#destekle-foto{
+  background-image:
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
+  url('photos/resim2.jpg');
+}  
 
 #hi-kod-logo1{
   border: 2px solid white;
