@@ -349,17 +349,14 @@ h2{
   color: black;
 }
 
-
-
-
-.padding-kbu{
+.padding-kbu {
   
   margin-right: 2rem
 }
-.card-kbu{
+.card-kbu {
     padding-top: 35px;
 }
-.image-user-kbu{
+.image-user-kbu {
     
     float: left;
     
@@ -368,17 +365,25 @@ h2{
     border-radius: 50%;
    
 }
-.txt-card-color{
+.txt-card-color {
     color:rgb(156, 161, 161);
     padding-left: 55px;
     font-size: small;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-div.card-background-kbu{
- 
+div.card-background-kbu {
   background: linear-gradient(270deg, rgba(98,93,170,1) 14%, rgba(158,155,193,1) 77%, rgba(112,62,146,1) 165%, rgba(113,18,197,1) 233%);
-
   width: 100%;
- 
+}
+
+.footer {
+  height: 30px;
+  width: 30px;
+
+  display:inline-block;
+}
+
+.text-decoration-none {
+  list-style: none;
 }
