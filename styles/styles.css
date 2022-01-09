@@ -284,7 +284,10 @@ h2{
 
 }
 
+.alticizNohover{
+  text-decoration: underline;
 
+}
 .alticiz:hover{
   text-decoration: underline;
 }
@@ -329,4 +332,9 @@ h2{
     margin-left: auto;
     margin-right: auto;
     width: 8em;
+}
+
+.aLink{
+  color: black;
+  text-decoration: underline;
 }
