@@ -177,6 +177,11 @@ div {
   url('photos/about.png');
 }
 
+#kodluyoruz-jr-foto{
+  background-image:
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
+  url('photos/kodluyoruz-jr.jpg');
+}  
 
 #hi-kod-logo1{
   border: 2px solid white;
@@ -297,6 +302,15 @@ h2{
 .white-link:hover {
   color: orange;
 }
+
+.white-link2{
+  color: white;
+}
+
+.white-link2:hover{
+  color: white;
+}
+
 
 .underline:hover {
   text-decoration: underline;
