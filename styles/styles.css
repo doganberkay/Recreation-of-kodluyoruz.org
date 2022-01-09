@@ -138,18 +138,19 @@ div {
 
 #anasayfa-foto1 {
   background-image:
-  linear-gradient(to bottom, rgba(56, 159, 219, 0.5), rgba(97, 29, 175, 0.5)),
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
   url('photos/anasayfa11.png');
+  
 }
 
 #hi-kod-foto1{
   background-image:
-  linear-gradient(to bottom, rgba(56, 159, 219, 0.5), rgba(97, 29, 175, 0.5)),
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
   url('photos/hi-kod-4.png');
 }
 #for-company-foto1{
   background-image:
-  linear-gradient(to bottom, rgba(56, 159, 219, 0.5), rgba(97, 29, 175, 0.5)),
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
   url('photos/for-company1.jpg');
 }
 
