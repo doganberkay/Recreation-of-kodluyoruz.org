@@ -405,3 +405,34 @@ div.card-background-kbu {
 .text-decoration-none {
   list-style: none;
 }
+
+
+
+
+.footerMenu{
+  letter-spacing: .05em;
+  line-height: 1.25rem;
+  font-weight: 600;
+  font-size: .875rem;
+  color: #818182;
+}
+.footerElements{
+  line-height: .75rem;
+  font-size: .875rem;
+  --tw-text-opacity: 1;
+    color: rgba(115,115,115,var(--tw-text-opacity));
+}
+
+.footerElements:hover{
+  text-decoration: none;
+  color: #111;
+}
+.footerText{
+  font-size: .875rem;
+  line-height: 1.5rem;
+}
+
+.gray{
+  --tw-text-opacity: 1;
+    color: rgba(163,163,163,var(--tw-text-opacity));
+}
