@@ -448,7 +448,8 @@ div.card-background-kbu {
 
 .image {
   position: relative;
-  width: 400px;
+  max-width: 30rem;
+  max-height: 30rem;
 }
 
 .image__img {
@@ -498,4 +499,10 @@ div.card-background-kbu {
 .image__description {
   font-size: 1.25em;
   margin-top: 0.25em;
+}
+
+
+.pad {
+  padding-left: 2.5em;
+  padding-right: 1.5em;
 }
