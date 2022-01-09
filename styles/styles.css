@@ -520,3 +520,8 @@ div.card-background-kbu {
   padding-left: 2.5em;
   padding-right: 1.5em;
 }
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
