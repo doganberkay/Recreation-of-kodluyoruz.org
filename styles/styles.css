@@ -171,11 +171,19 @@ div {
   url('photos/community1.jpg');
 }
 
+#about-foto{
+  background-image:
+  linear-gradient(to bottom, rgb(45, 156, 219, 0.6), rgba(155, 81, 224, 0.6)),
+  url('photos/about.png');
+}
+
 
 #hi-kod-logo1{
   border: 2px solid white;
   border-radius: 8px 8px;
 }
+
+
 
 #resimsizGradient{
     background: linear-gradient(to right,rgba(45,156,219,.6),rgba(155,81,224,.6));
